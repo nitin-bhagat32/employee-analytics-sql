@@ -14,7 +14,9 @@ To design and implement an SQL-based HR analytics system that enables PayCore Pv
 - Database Design (Relational schema creation & maintenance)
 
 ## 📂 Project Files  
-- `PayCore- SQL Project.pptx` – Showcasing project background, database schema, SQL queries, and key business insights
+- `PayCore_Project.sql` – SQL script containing all DDL, DML, and HR analytics queries  
+- `PayCore- SQL Project.pptx` – Project overview, schema design, screenshots, and insights  
+  > 📥 To open the PPT file: click on it in the repo, then click **`View raw`** – it will auto-download.
 
 ## 📊 Key Insights  
 - Employees without any benefits were identified for HR follow-up  
